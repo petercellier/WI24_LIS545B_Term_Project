@@ -5,5 +5,5 @@ This repository was completed as part of a final term project for the UW MLIS co
 This repository contains the following files:
 
 	1. A CSV file describing 77 unique features of each of the 82,352 trails located on U.S. Forest Service land
- 	2. An XML metadata document describing the dataset
+ 	2. An XML metadata document describing the dataset, following the DataCite metadata schema (note that the "identifier" element does not contain a DOI, per the DataCite schema requirements, because the original dataset does not contain a DOI, only a URL)
 	3. The student's final report, which describes the dataset, associated metadata, an appropriate repository for the data, and other considerations for its preservation and use
